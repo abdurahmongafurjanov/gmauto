@@ -1,0 +1,38 @@
+@media screen and (max-width: 460px) {
+    .navdar{
+        width: 100%;
+    }
+    .nan__colection{
+        width: 100%;
+        display: none;
+    }
+    .nat__menu{
+        display: block;
+        padding: 0px 370px;
+    
+    }
+    .vew{
+        display: none;
+    }
+    .carousel{
+        width: 100%;
+    }
+    .bos img{
+        display: block;
+    }
+    .box img{
+        width: 100%;
+        display: block;
+    }
+    .banner{
+    flex-direction: column;
+    gap: 20px;
+    padding: 30px 20px;
+    }
+    .banner__image img{
+        height: 250px;
+     }
+    
+}
+
+
